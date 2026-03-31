@@ -1,0 +1,20 @@
+{
+  "app_name": "沈家大院专属",
+  "version": "1.0.0",
+  "update_url": "https://toutiao-auto-2658.github.io/shenda-yuan/update.json",
+  
+  "movie_sources": [
+    "https://api.leyuanapi.top/api.php/provide/vod/",
+    "http://s.1.t1xz.com/ysc/juhe.json",
+    "https://api.pingcc.cn/api.php/provide/vod/"
+  ],
+  
+  "novel_sources": [
+    "https://novel-api.com/api/books",
+    "https://book-api.com/api/search"
+  ],
+  
+  "live_sources": [
+    "https://raw.githubusercontent.com/iptv-org/iptv/master/channels/cn.m3u"
+  ]
+}
